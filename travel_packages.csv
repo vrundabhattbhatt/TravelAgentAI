@@ -1,0 +1,21 @@
+package_id,package_name,destination,budget,duration,travel_style,group_size,accommodation_type,activities,price_range,rating,reviews_count,includes,best_time
+PKG001,Paris City Explorer,"Paris, France",₹100000-200000,7,cultural,couple,hotel,"Museums, Art galleries, Local cuisine tours",₹120000-180000,4.2,156,"Accommodation, Breakfast, City tours",Spring
+PKG002,Amsterdam Adventure,"Amsterdam, Netherlands",₹80000-150000,5,relaxation,couple,boutique,"Canal tours, Museums, Bike rentals",₹90000-130000,4.1,203,"Accommodation, Transportation, Travel insurance",Summer
+PKG003,New York Business Trip,"New York, USA",₹200000-500000,4,business,solo,hotel,"Business facilities, City tours, Fine dining",₹250000-350000,4.4,89,"Accommodation, Transportation, Business center access",Year-round
+PKG004,Mumbai Heritage Tour,"Mumbai, India",₹50000-100000,10,cultural,family,hotel,"Historical sites, Local markets, Food tours",₹60000-90000,3.9,267,"Accommodation, Transportation, Breakfast, Guide",Winter
+PKG005,Family Fun in NYC,"New York, USA",₹150000-300000,8,family,family,hotel,"Museums, Central Park, Broadway shows",₹200000-280000,4.3,124,"Accommodation, Breakfast, Family activities",Summer
+PKG006,Paris Romance Package,"Paris, France",₹150000-250000,6,romantic,couple,boutique,"Seine dinner cruise, Eiffel Tower, Wine tasting",₹180000-220000,4.6,198,"Accommodation, Romantic dinners, Private tours",Spring
+PKG007,Istanbul Cultural Journey,"Istanbul, Turkey",₹80000-150000,9,cultural,solo,hotel,"Historical sites, Bazaar tours, Turkish baths",₹100000-140000,4.2,145,"Accommodation, Transportation, Cultural guide",Fall
+PKG008,Paris Budget Explorer,"Paris, France",₹50000-80000,5,cultural,solo,hostel,"Walking tours, Free museums, Local cafes",₹60000-75000,3.8,87,"Accommodation, Walking tours",Fall
+PKG009,Swiss Alpine Romance,"Zurich, Switzerland",₹200000-400000,7,romantic,couple,resort,"Mountain excursions, Spa treatments, Fine dining",₹250000-320000,4.5,76,"Accommodation, Meals, Spa access, Tours",Summer
+PKG010,Mumbai Adventure,"Mumbai, India",₹60000-120000,6,adventure,group,hotel,"Street food tours, Local transport, Markets",₹70000-100000,4.0,134,"Accommodation, Local guide, Transportation",Winter
+PKG011,Bangkok Backpacker,"Bangkok, Thailand",₹30000-60000,14,adventure,solo,hostel,"Street food, Temple visits, River tours",₹40000-55000,3.9,289,"Accommodation, Local transport pass",Year-round
+PKG012,Istanbul Luxury Retreat,"Istanbul, Turkey",₹300000-500000,6,relaxation,couple,resort,"Spa treatments, Fine dining, Private tours",₹350000-420000,4.7,67,"Accommodation, All meals, Spa treatments",Spring
+PKG013,Amsterdam Canal Romance,"Amsterdam, Netherlands",₹120000-200000,5,romantic,couple,boutique,"Private canal tour, Museum passes, Fine dining",₹150000-180000,4.4,112,"Accommodation, Private tours, Museum passes",Summer
+PKG014,Paris Family Discovery,"Paris, France",₹200000-350000,8,family,family,hotel,"Disneyland, Museums, River cruise",₹240000-300000,4.2,156,"Accommodation, Family activities, Transportation",Summer
+PKG015,Vienna Classical Tour,"Vienna, Austria",₹100000-200000,7,cultural,couple,hotel,"Opera houses, Classical concerts, Art museums",₹130000-170000,4.3,98,"Accommodation, Concert tickets, City tours",Fall
+PKG016,Stockholm Nature Escape,"Stockholm, Sweden",₹150000-250000,6,relaxation,solo,hotel,"Archipelago tours, Nature walks, Spa",₹180000-220000,4.1,67,"Accommodation, Nature tours, Spa access",Summer
+PKG017,Tokyo Adventure,"Tokyo, Japan",₹120000-220000,9,adventure,couple,hotel,"Sushi tours, Temple visits, Shopping districts",₹150000-190000,4.6,234,"Accommodation, Food tours, Transportation",Spring
+PKG018,Dubai Luxury Experience,"Dubai, UAE",₹250000-400000,5,business,couple,resort,"Desert safari, Shopping, Fine dining",₹300000-360000,4.4,145,"Accommodation, Desert tours, All meals",Winter
+PKG019,NYC Cultural Weekend,"New York, USA",₹100000-180000,4,cultural,couple,hotel,"Broadway shows, Museums, Art galleries",₹120000-150000,4.2,167,"Accommodation, Show tickets, Museum passes",Fall
+PKG020,Bangkok Business Trip,"Bangkok, Thailand",₹80000-150000,6,business,solo,hotel,"Business facilities, City tours, Local cuisine",₹100000-130000,4.0,89,"Accommodation, Business center, Transportation",Year-round
